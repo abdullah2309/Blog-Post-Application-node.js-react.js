@@ -1,4 +1,4 @@
-# 📝 Blog Post CRUD Application
+# Blog-Post-Application-node.js-react.js
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)](https://reactjs.org/)
