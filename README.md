@@ -56,16 +56,16 @@ backend/ <br>
 
 ### Frontend (React.js) Blog Post
 
-frontend/
-├── src/
-│ ├── components/
-│ │ ├── BlogForm.jsx
-│ │ └── BlogList.jsx
-│ ├── App.jsx
-│ ├── index.jsx
-│ └── routes/
-├── public/
-└── package.json
+frontend/ <br>
+├── src/ <br>
+│ ├── components/ <br>
+│ │ ├── BlogForm.jsx <br>
+│ │ └── BlogList.jsx <br>
+│ ├── App.jsx <br>
+│ ├── index.jsx <br>
+│ └── routes/ <br>
+├── public/ <br>
+└── package.json  <br>
 
 
 ---
