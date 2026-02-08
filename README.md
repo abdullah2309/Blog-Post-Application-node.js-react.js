@@ -39,18 +39,19 @@ This application allows users to **create, read, update, and delete blog posts**
 ### Backend (Node.js / Express / MongoDB)
 
 
-backend/
-├── controllers/
-│ └── blogController.js
-├── models/
-│ └── blogModel.js
-├── routes/
-│ └── blogRoutes.js
-├── uploads/
-├── config/
-│ └── db.js
-├── server.js
-└── package.json
+backend/ <br>
+├── controllers/  <br>
+│   └── blogController.js <br>
+├── models/ <br>
+│   └── blogModel.js <br>
+├── routes/ <br>
+│   └── blogRoutes.js <br>
+├── uploads/  <br>
+├── config/ <br>
+│   └── config.js <br>
+├── server.js <br>
+└── package.json <br>
+
 
 
 ### Frontend (React.js) Blog Post
